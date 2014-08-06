@@ -1,0 +1,145 @@
+Accra,-1.0
+Addis Ababa,+2.0
+Adelaide,+8.5
+Algiers,+0.0
+Almaty,+5.0
+Amman,+2.0
+Amsterdam,+1.0
+Anadyr,+11.0
+Anchorage,-9.0
+Ankara,+2.0
+Antananarivo,+2.0
+Asuncion,-5.0
+Athens,+2.0
+Atlanta,-5.0
+Auckland,+11.0
+Baghdad,+2.0
+Bangalore,+4.5
+Bangkok,+6.0
+Barcelona,+1.0
+Beijing,+7.0
+Beirut,+2.0
+Belgrade,+1.0
+Berlin,+1.0
+Bogota,-6.0
+Boston,-5.0
+Brasilia,-4.0
+Brisbane,+9.0
+Brussels,+1.0
+Bucharest,+2.0
+Budapest,+1.0
+Buenos Aires,-4.0
+Cairo,+1.0
+Calgary,-7.0
+Canberra,+9.0
+Cape Town,+1.0
+Caracas,-5.5
+Casablanca,+0.0
+Chicago,-6.0
+Columbus,-5.0
+Copenhagen,+1.0
+Dallas,-6.0
+Dar es Salaam,+2.0
+Darwin,+8.5
+Denver,-7.0
+Detroit,-5.0
+Dhaka,+5.0
+Doha,+2.0
+Dubai,+3.0
+Dublin,+0.0
+Edmonton,-7.0
+Frankfurt,+1.0
+Guatemala,-7.0
+Halifax,-4.0
+Hanoi,+6.0
+Harare,+1.0
+Havana,-5.0
+Helsinki,+2.0
+Hong Kong,+7.0
+Honolulu,-11.0
+Houston,-6.0
+Indianapolis,-5.0
+Islamabad,+4.0
+Istanbul,+2.0
+Jakarta,+6.0
+Jerusalem,+2.0
+Johannesburg,+1.0
+Kabul,+3.5
+Karachi,+4.0
+Kathmandu,+4.8
+Khartoum,+2.0
+Kingston,-6.0
+Kinshasa,+0.0
+Kiritimati,+13.0
+Kolkata,+4.5
+Kuala Lumpur,+7.0
+Kuwait City,+2.0
+Kyiv,+2.0
+La Paz,-5.0
+Lagos,+0.0
+Lahore,+4.0
+Las Vegas,-8.0
+Lima,-6.0
+Limerick,+0.0
+Lisbon,+0.0
+London,+0.0
+Los Angeles,-8.0
+Madrid,+1.0
+Managua,-7.0
+Manila,+7.0
+Melbourne,+9.0
+Mexico City,-6.0
+Miami,-5.0
+Minneapolis,-6.0
+Minsk,+2.0
+Montevideo,-4.0
+Montreal,-5.0
+Moscow,+3.0
+Mumbai,+4.5
+Nairobi,+2.0
+Nassau,-5.0
+New Delhi,+4.5
+New Orleans,-6.0
+New York,-5.0
+Oslo,+1.0
+Ottawa,-5.0
+Paris,+1.0
+Perth,+7.0
+Philadelphia,-5.0
+Phoenix,-8.0
+Prague,+1.0
+Reykjavik,-1.0
+Rio de Janeiro,-4.0
+Riyadh,+2.0
+Rome,+1.0
+Salt Lake City,-7.0
+San Francisco,-8.0
+San Juan,-5.0
+San Salvador,-7.0
+Santiago,-4.0
+Santo Domingo,-5.0
+São Paulo,-4.0
+Seattle,-8.0
+Seoul,+8.0
+Shanghai,+7.0
+Singapore,+7.0
+Sofia,+2.0
+St. John's,-3.5
+Stockholm,+1.0
+Suva,+11.0
+Sydney,+9.0
+Taipei,+7.0
+Tallinn,+2.0
+Tashkent,+4.0
+Tegucigalpa,-7.0
+Tehran,+3.5
+Tokyo,+8.0
+Toronto,-5.0
+Vancouver,-8.0
+Vienna,+1.0
+Warsaw,+1.0
+Washington DC,-5.0
+Winnipeg,-6.0
+Yangon,+5.5
+Zagreb,+1.0
+Zürich,+1.0

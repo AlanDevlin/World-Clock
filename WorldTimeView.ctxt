@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=WorldTimeView(WorldTimeModel)
+comment1.params=clocks
+comment1.target=void\ add(java.util.ArrayList)
+comment2.params=c
+comment2.target=void\ remove(CityTime)
+comment3.params=e
+comment3.target=void\ valueChanged(javax.swing.event.ListSelectionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=currentTime
+comment5.target=java.lang.String\ toString(double)
+comment6.params=
+comment6.target=void\ updateTime()
+comment7.params=fileName
+comment7.target=java.util.Map\ loadCityTimeOffsets(java.lang.String)
+numComments=8
